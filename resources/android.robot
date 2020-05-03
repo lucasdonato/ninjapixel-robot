@@ -14,7 +14,7 @@ Resource    android/keys/components.robot
 ${URL}              http://localhost:4723/wd/hub
 ${deviceName}       Pixel 2 API 28
 ${app}              ${CURDIR}/app/pixel.apk
-${timeout}          10
+${timeout}          30
 
 *** Keywords ***
 ### hooks
